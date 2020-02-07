@@ -1,4 +1,0 @@
-#Tue Jan 28 01:45:53 BRST 2020
-base.0=/home/augusto/Flutter/titanmonfuria/titamon_furia/build/app/intermediates/transforms/r8/release/0/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
