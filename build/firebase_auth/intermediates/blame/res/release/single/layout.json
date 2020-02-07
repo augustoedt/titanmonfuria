@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/augusto/Flutter/titanmonfuria/titamon_furia/build/firebase_auth/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/home/augusto/.gradle/caches/transforms-2/files-2.1/3a7e64f07d9cbaf64632afb4459b9a5f/core-1.0.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/augusto/Flutter/titanmonfuria/titamon_furia/build/firebase_auth/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/home/augusto/.gradle/caches/transforms-2/files-2.1/3a7e64f07d9cbaf64632afb4459b9a5f/core-1.0.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/augusto/Flutter/titanmonfuria/titamon_furia/build/firebase_auth/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/augusto/.gradle/caches/transforms-2/files-2.1/3a7e64f07d9cbaf64632afb4459b9a5f/core-1.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/augusto/Flutter/titanmonfuria/titamon_furia/build/firebase_auth/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/home/augusto/.gradle/caches/transforms-2/files-2.1/3a7e64f07d9cbaf64632afb4459b9a5f/core-1.0.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/augusto/Flutter/titanmonfuria/titamon_furia/build/firebase_auth/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/augusto/.gradle/caches/transforms-2/files-2.1/3a7e64f07d9cbaf64632afb4459b9a5f/core-1.0.0/res/layout/notification_template_part_chronometer.xml"
+    }
+]

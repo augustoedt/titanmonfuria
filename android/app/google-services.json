@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "121412226819",
+    "firebase_url": "https://titanonline-5cbf2.firebaseio.com",
+    "project_id": "titanonline-5cbf2",
+    "storage_bucket": "titanonline-5cbf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121412226819:android:7f9b27f1368b99404a6336",
+        "android_client_info": {
+          "package_name": "com.fitamonfuria.titamon_furia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121412226819-o5u6m58rkdpm2ke13dpi28f92bkll99m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVeHXFbO0B9q7vPMlFSKoaakrmGqmKDtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121412226819-o5u6m58rkdpm2ke13dpi28f92bkll99m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
